@@ -1,19 +1,24 @@
 # React + Vite
 #COMMANDS
 1). "npm create vite@latest"
+<br>
 2). "npm install (for installing the node _modules)"
+<br>
 3). "npm install -D tailwindcss postcss autoprefixer
     npx tailwindcss init -p( for installing the tailwind css)"
+    <br>
 4). "In tailwind.config.css modify the content section by this 
 <h2>content: [
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],</h2>"
+  <br>
 
 5). "add these library of tailwind in index.css in the src folder for using tailwind in better way 
 <h2>@tailwind base;
 @tailwind components;
 @tailwind utilities;</h2>"
+<br>
 
 6). finally the command for running the project is "npm run dev"
     
