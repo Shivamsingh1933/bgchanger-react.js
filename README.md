@@ -4,7 +4,9 @@
 <br>
 1). "npm create vite@latest"
 <br>
+<br>
 2). "npm install (for installing the node _modules)"
+<br>
 <br>
 3). "npm install -D tailwindcss postcss autoprefixer
     <br>
@@ -14,15 +16,20 @@
 4). In tailwind.config.css modify the content section by this 
 "content: [
     "./index.html",
+    <br>
     "./src/**/*.{js,ts,jsx,tsx}",
   ],"
   
   <br>
+  <br>
 
 5). add these library of tailwind in index.css in the src folder for using tailwind in better way 
 "@tailwind base;
+<br>
 @tailwind components;
+<br>
 @tailwind utilities;</h2>"
+<br>
 <br>
 
 6). finally the command for running the project is "npm run dev"
