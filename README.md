@@ -14,6 +14,7 @@
     <br>
     <br>
 4). In tailwind.config.css modify the content section by this 
+<br>
 "content: [
     "./index.html",
     <br>
