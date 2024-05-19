@@ -7,6 +7,7 @@
 2). "npm install (for installing the node _modules)"
 <br>
 3). "npm install -D tailwindcss postcss autoprefixer
+    <br>
     npx tailwindcss init -p( for installing the tailwind css)"
     <br>
 4). In tailwind.config.css modify the content section by this 
