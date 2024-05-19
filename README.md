@@ -10,6 +10,7 @@
     <br>
     npx tailwindcss init -p( for installing the tailwind css)"
     <br>
+    <br>
 4). In tailwind.config.css modify the content section by this 
 "content: [
     "./index.html",
